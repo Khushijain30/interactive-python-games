@@ -5,10 +5,10 @@ This repository contains two interactive Python games developed as part of a uni
 /Game1_template
 game.py
 map.py
-pycache/
+ pycache/
 /Game2_template
-game.py
-gameparser.py
+ game.py
+ gameparser.py
 items.py
 map.py
 player.py
